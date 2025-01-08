@@ -1,5 +1,3 @@
-```
-
 # Hibernate HQL Project
 
 This project demonstrates the use of Hibernate Query Language (HQL) with a simple `Product` entity.
@@ -39,7 +37,7 @@ public class Product {
                 + ", productPrice=" + productPrice + "]";
     }
 }
-```
+
 
 ## HQL Queries
 
