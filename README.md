@@ -38,7 +38,7 @@ public class Product {
     }
 }
 
-
+```
 ## HQL Queries
 
 HQL (Hibernate Query Language) is similar to SQL but operates on the entity objects rather than directly on database tables. Here are some examples of HQL queries you can use with the `Product` entity:
