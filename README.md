@@ -1,4 +1,5 @@
 ```
+
 # Hibernate HQL Project
 
 This project demonstrates the use of Hibernate Query Language (HQL) with a simple `Product` entity.
@@ -89,4 +90,3 @@ int result = query.executeUpdate();
 ## Conclusion
 
 This project provides a basic example of using Hibernate HQL with a `Product` entity. You can extend this project by adding more entities and complex queries as needed.
-
